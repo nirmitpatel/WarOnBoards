@@ -1,0 +1,47 @@
+[
+	{
+		"id":0,
+		"title":"Machine Gun",
+		"description":"it is machine gun",
+		"itemstobeadded":100,	
+		"range":400,	
+		"damage":1,
+		"slug":"machine_gun" 
+	},
+	{
+		"id":1,
+		"title":"Missile",
+		"description":"it is missile",
+		"itemstobeadded":5,	
+		"range":2000,	
+		"damage":60,
+		"slug":"heat_seeking_missile" 
+	},
+	{
+		"id":2,
+		"title":"Mine",
+		"description":"it is mine",
+		"itemstobeadded":5,	
+		"range":0,	
+		"damage":50,
+		"slug":"mine" 
+	},
+	{
+		"id":3,
+		"title":"Cannon Shell",
+		"description":"it is cannon shell",
+		"itemstobeadded":10,	
+		"range":1000,	
+		"damage":30,
+		"slug":"cannon_shell" 
+	},
+	{
+		"id":4,
+		"title":"Laser Guided Bomb",
+		"description":"it is laser guided bomb",
+		"itemstobeadded":1,	
+		"range":1000,	
+		"damage":100,
+		"slug":"laser_guided_bomb" 
+	}	
+]
