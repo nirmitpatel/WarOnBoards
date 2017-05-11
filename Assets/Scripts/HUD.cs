@@ -38,7 +38,6 @@ public class HUD : MonoBehaviour
 
 	void Start () 
 	{
-		//PlayerPrefs.SetString("Name","Ravi");
 		PlayerName.text=PlayerPrefs.GetString ("Name");
 		timer = (Minutes * 60) + Seconds;
 		timeStarted = true;
@@ -176,7 +175,7 @@ public class HUD : MonoBehaviour
 	}
 	public void showGameOver(int i)
 	{
-		cursorVisible = true;
+        /*cursorVisible = true;
 		Time.timeScale=0;
 		Cursor.lockState=CursorLockMode.Confined;
 		GameOver.enabled = true;
@@ -192,7 +191,8 @@ public class HUD : MonoBehaviour
 		else 
 		{
 			message.text = "Congratulations!! Want to Replay the Level Again?";
-		}
+		}*/
+        Application.LoadLevel(2);
 	}
 	public void LoadMainMenu()
 	{

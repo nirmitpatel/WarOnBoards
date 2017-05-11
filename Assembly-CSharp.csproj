@@ -46,6 +46,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\ButtonScript.cs" />
      <Compile Include="Assets\Realistic Effects Pack\Scripts\Share\EffectSettings.cs" />
      <Compile Include="Assets\Realistic Effects Pack\Scripts\Share\FadeInOutLight.cs" />
      <Compile Include="Assets\Realistic Effects Pack\Scripts\Share\FadeInOutParticles.cs" />
