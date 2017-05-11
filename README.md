@@ -1,7 +1,7 @@
 # WarOnBoards</br>
 How to Play:</br>
 
-W – Move forward
+<p>W – Move forward</p>
 A – Turn left 
 S – Move backward 
 D – Turn right
