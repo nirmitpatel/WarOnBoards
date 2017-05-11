@@ -3,7 +3,7 @@ using System.Collections;
 using UnityEngine.UI;
 public class EnemyHealth : MonoBehaviour 
 {
-	public int startingHealth = 100;            
+	public int startingHealth = 5;            
 	public int currentHealth; 
 	public GameObject enemyExplosion;
 	public Image healthtrasform;

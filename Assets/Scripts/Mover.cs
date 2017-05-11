@@ -47,7 +47,7 @@ public class Mover : MonoBehaviour
 			if (other.tag == "Enemy") 
 			{
 				enemyHealth = other.gameObject.GetComponentInChildren<EnemyHealth>();
-				enemyHealth.TakeDamage(1);
+				enemyHealth.TakeDamage(10);
 			}
 			Destroy (gameObject);
 		}
