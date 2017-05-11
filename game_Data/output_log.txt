@@ -18,7 +18,864 @@ Platform assembly: C:\Users\nirmi\Desktop\Games\WarOnBoards-master\WarOnBoards-m
 Loading C:\Users\nirmi\Desktop\Games\WarOnBoards-master\WarOnBoards-master\game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\nirmi\Desktop\Games\WarOnBoards-master\WarOnBoards-master\game_Data\Managed\LitJson.dll (this message is harmless)
 Loading C:\Users\nirmi\Desktop\Games\WarOnBoards-master\WarOnBoards-master\game_Data\Managed\LitJson.dll into Unity Child Domain
-- Completed reload, in  0.339 seconds
+- Completed reload, in  0.070 seconds
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\nirmi\Desktop\Games\WarOnBoards-master\WarOnBoards-master\game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\nirmi\Desktop\Games\WarOnBoards-master\WarOnBoards-master\game_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 16f8 -> priority: 1 
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+Shader 'Nature/Terrain/Specular': dependency 'BaseMapShader' shader 'Hidden/TerrainEngine/Splatmap/Specular-Base' not found
+UnloadTime: 6.498502 ms
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 1778.
+Total: 1.441655 ms (FindLiveObjects: 0.138954 ms CreateObjectMapping: 0.104216 ms MarkObjects: 0.792673 ms  DeleteObjects: 0.404626 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 36c4 -> priority: 1 
+0.9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0.8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0.9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0.8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0.7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0.6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0.5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0.4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0.3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0.2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0.1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0.7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0.6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0.5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0.4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0.3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+-0.2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0.5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+0.9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0.8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0.7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0.6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0.5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0.5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CannonHitTest.shoot_cannon () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Shooting () [0x00000] in <filename unknown>:0 
+  at EnemyAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+-0.1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+0.5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Health
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at EnemyAI.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+EnemyManager:Spawn()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at EnemyAI.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+EnemyManager:Spawn()
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.421208 ms
+
+Unloading 910 unused Assets to reduce memory usage. Loaded Objects now: 237.
+Total: 5.457131 ms (FindLiveObjects: 0.106189 ms CreateObjectMapping: 0.217511 ms MarkObjects: 0.654113 ms  DeleteObjects: 4.478132 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 29d8 -> priority: 1 
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.489499 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 771.
+Total: 0.766224 ms (FindLiveObjects: 0.060397 ms CreateObjectMapping: 0.034738 ms MarkObjects: 0.658850 ms  DeleteObjects: 0.011842 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.658298 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 771.
+Total: 0.998737 ms (FindLiveObjects: 0.066319 ms CreateObjectMapping: 0.051318 ms MarkObjects: 0.863335 ms  DeleteObjects: 0.017369 ms)
+
