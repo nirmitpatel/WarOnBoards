@@ -2,7 +2,7 @@
 using UnityEngine.UI;
 using System.Collections;
 
-public class ClickExample : MonoBehaviour
+public class ButtonScript : MonoBehaviour
 {
     public Button myButton;
 
@@ -12,7 +12,7 @@ public class ClickExample : MonoBehaviour
         btn.onClick.AddListener(TaskOnClick);
     }
 
-    void TaskOnClick()
+    public void TaskOnClick()
     {
         Application.LoadLevel(0);
     }
